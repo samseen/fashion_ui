@@ -1,0 +1,29 @@
+{
+  "name": "fashion",
+  "version": "1.0.0",
+  "description": "Fashion UI as found on Freepik",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samseen/fashion_ui.git"
+  },
+  "keywords": [
+    "HTML",
+    "Bootstrap"
+  ],
+  "author": "Samson Akanbi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samseen/fashion_ui/issues"
+  },
+  "homepage": "https://github.com/samseen/fashion_ui#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.14.0",
+    "boostrap": "^2.0.0",
+    "owl.carousel": "^2.3.4",
+    "sass": "^1.26.10"
+  }
+}
