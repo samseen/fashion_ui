@@ -1,0 +1,12 @@
+
+/* Font Family - Bebas-Regular */
+@font-face {
+    font-family: Bebas-Regular;
+    src: url('../fonts/site-text/BebasNeue-Regular.ttf');
+}
+
+/* Font Family - Bebas-Bold */
+@font-face {
+    font-family: Bebas-Bold;
+    src: url('../fonts/site-text/BebasNeue-Bold.ttf');
+}
