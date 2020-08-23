@@ -20,11 +20,16 @@ body {
     .navbar {
         .collapse {
             .nav-item {
-                padding: 1rem 2rem;
+                padding: 1rem .8rem;
 
                 .dark-background {
                     padding: .3rem 1.2rem;
                     background-color: $dark-brown;
+                }
+
+                .nav-link {
+                    font-family: SourceSansPro-Bold;
+                    text-transform: uppercase;
                 }
 
                 > a {
