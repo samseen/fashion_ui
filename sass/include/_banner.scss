@@ -39,4 +39,11 @@
         color: $light-brown;
         font-family: Poppins-Italic;
     }
+
+    .btn {
+        color: white;
+        background: $dark-brown;
+        border-radius: 0rem;
+        padding: .4rem 2rem;
+    }
 }
