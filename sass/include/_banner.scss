@@ -22,7 +22,12 @@
     .horizontal { 
         border-bottom: 6px solid $light-brown; 
         width: 80px; 
-        position:absolute; 
-        
+        position:absolute;
+    }
+
+    .subtitle {
+        width: 200px;
+        color: $light-brown;
+        font-family: Poppins-Italic;
     }
 }
