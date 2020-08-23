@@ -11,7 +11,14 @@
     src: url('../fonts/site-text/BebasNeue-Bold.ttf');
 }
 
+/* Font Family - Poppins-Italic*/
 @font-face {
     font-family: Poppins-Italic;
     src: url('../fonts/site-text/Poppins-Italic.ttf');
+}
+
+/* Font Family - Source Sans Pro*/
+@font-face {
+    font-family: SourceSansPro-Bold;
+    src: url('../fonts/site-text/SourceSansPro-Bold.ttf');
 }
